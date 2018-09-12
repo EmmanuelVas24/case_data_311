@@ -1,7 +1,7 @@
 Link to original dataset: https://catalog.data.gov/dataset/case-data-from-san-francisco-311-sf311-d42fc
 (I couldn't upload it as it was too large)
 
-I came across this dataset and thought it would be interesting to analyze some data related to legal cases. I didn't see any descriptions,
+I came across this dataset and thought it would be interesting to analyze some data related to tickets logged with Department of Public Works. I didn't see any descriptions,
 but it was easy enough to understand just by viewing it. I used mySQL Workbench and mySQL Command Line Client to do this project.
 
 
