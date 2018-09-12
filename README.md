@@ -14,18 +14,18 @@ the date datatype. So, I created new columns where I could apply the correct for
 just didn't want to risk it.
 
 
-Case_Duration.csv
+Case_Duration.csv:
 I compared the days it took to close a case, with the number of cases that were closed in that time. Most cases were closed within a week
 to 11 days. So, it made sense to divide the cases which were closed in this timeframe, and the ones that took longer.
 
-Cases_Short.csv
+Cases_Short.csv:
 These are the cases that were closed quickly. The offenses were mainly dirty sidewalks, abandoned vehicles, graffiti, loose garbage, or
 sewer issues.
 
-Cases_Long.csv
+Cases_Long.csv:
 Almost all of these cases were related to tree maintainence. I assumed it was because these cases would involve real estate laws.
 
-final_table.csv
+final_table.csv:
 This is the table I got after all the manipulations. It has the new columns that were created.
 
 
